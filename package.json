@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/YuliyaNovik/TestLog/issues"
   },
-  "homepage": "https://github.com/YuliyaNovik/TestLog#readme"
+  "homepage": "https://github.com/YuliyaNovik/TestLog#readme",
+  "dependencies": {
+    "node-horseman": "^3.3.0",
+    "phantomjs": "^2.1.7"
+  }
 }
