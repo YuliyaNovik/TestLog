@@ -1,0 +1,19 @@
+{
+  "name": "testlog",
+  "version": "1.0.0",
+  "description": "Script for automatic log in http://reactpolls.herokuapp.com/login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliyaNovik/TestLog.git"
+  },
+  "author": "Yuliya Novik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliyaNovik/TestLog/issues"
+  },
+  "homepage": "https://github.com/YuliyaNovik/TestLog#readme"
+}
